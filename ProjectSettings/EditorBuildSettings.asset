@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GGJ2019/Scenes/splash.unity
+    guid: af821e7b3b3719442a6185f2872c5fcb
+  - enabled: 1
+    path: Assets/GGJ2019/Scenes/intro.unity
+    guid: 97e4b9132ac5d2c47a44419c4b4e0173
+  - enabled: 1
+    path: Assets/GGJ2019/Scenes/tree.unity
+    guid: 9ec51a68b24562d498196d8e88258d16
+  - enabled: 1
+    path: Assets/GGJ2019/Scenes/bees.unity
+    guid: becdd2515123fba49a9a2b16000fda10
+  - enabled: 1
+    path: Assets/GGJ2019/Scenes/bike.unity
+    guid: cbc3a5f3abe28f94b802557ec13ff8eb
+  - enabled: 1
+    path: Assets/GGJ2019/Scenes/bird.unity
+    guid: 74710daa3166e7a47b270c9507a87fa0
+  - enabled: 1
+    path: Assets/GGJ2019/Scenes/maze.unity
+    guid: 4dd3266b24475a34b8c0e09fa1ef323f
+  m_configObjects: {}
